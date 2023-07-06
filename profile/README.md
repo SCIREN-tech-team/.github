@@ -1,4 +1,4 @@
-# <p align="center">:tada::tada::tada: ✨ SCIREN Tech Team ✨ :tada::tada::tada:</p>
+# <p align="center">:tada::tada::tada: ✨ SDITAC Tech Team ✨ :tada::tada::tada:</p>
 
 ## :newspaper: Table of Things
 
